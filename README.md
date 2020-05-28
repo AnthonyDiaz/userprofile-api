@@ -43,6 +43,7 @@ Link for local machine:
 2. [http://127.0.0.1:8000/users/{id}](http://127.0.0.1:8000/users/ "User Profile API Instance")
 
 3. [http://127.0.0.1:8000/users/?q={username}](http://127.0.0.1:8000/users/ "User Profile API Search")
+3. [http://127.0.0.1:8000/users/?search={username}](http://127.0.0.1:8000/users/ "User Profile API Search")
 
 
 ## Setup Django Admin
