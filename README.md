@@ -38,7 +38,7 @@ have the python env activate, and you are in the correct direct
 ## Links:
 Link for local machine: 
 
-[http://127.0.0.1:8000](http://127.0.0.1:8000/users/ "User Profiles API")
+[http://127.0.0.1:8000/users/](http://127.0.0.1:8000/users/ "User Profiles API")
 
 ## Setup Django Admin
 Create an initial super user email and named *admin* with a password of your choice.
